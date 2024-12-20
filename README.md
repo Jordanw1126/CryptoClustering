@@ -1,1 +1,1 @@
-With this homework assignment I used the K-means algorithm and optimizing the results with Principal Component Analysis (PCA).he process includes finding the best value for the number of clusters (k), visualizing clusters, and analyzing the explained variance from PCA.
+With this homework assignment I used the K-means algorithm and optimizing the results with Principal Component Analysis (PCA). The process includes finding the best value for the number of clusters (k), visualizing clusters, and analyzing the explained variance from PCA.
